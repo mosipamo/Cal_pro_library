@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: cal-pro
+Version: 0.1.2
+Summary: A pro calculator in which helps you to integarate, deriviate, plot, or even do simple calculation; You can also find the answer of equations.
+Home-page: https://medium-multiply.readthedocs.io/
+Author: Joffrey Bienvenu
+Author-email: example@email.com
+License: MIT
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+
+UNKNOWN
+
